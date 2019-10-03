@@ -1,0 +1,13 @@
+{
+  "name": "02-Lolzinho",
+  "version": "1.0.0",
+  "description": "Bot for discord using the League of Legends API",
+  "main": "index.js",
+  "author": "Frederico Hasegawa",
+  "license": "MIT",
+  "dependencies": {
+    "axios": "^0.19.0",
+    "discord.js": "^11.5.1",
+    "fs": "^0.0.1-security"
+  }
+}
